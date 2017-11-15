@@ -34,5 +34,5 @@ require APP . 'libs/helper.php';
 require APP . 'core/application.php';
 require APP . 'core/controller.php';
 
-// start the application
+// start the application now
 $app = new Application();
