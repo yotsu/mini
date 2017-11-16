@@ -35,4 +35,4 @@ require APP . 'core/application.php';
 require APP . 'core/controller.php';
 
 // start the application cool
-$app = new Application()
+$app = new Application(
