@@ -36,3 +36,4 @@ require APP . 'core/controller.php';
 
 // start the application cool
 $app = new Application();
+
